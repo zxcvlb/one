@@ -1,3 +1,0 @@
-git config --global user.name "zhanghao"
-git config --global user.email "email"
-ssh-keygen -t rsa -C "email"
